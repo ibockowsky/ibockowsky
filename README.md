@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/iboc/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
-I'm Igor, frontend developer from <b>Wroclaw, Poland</b>. I'm studying <b>Systems Engineering</b> at Wroclaw University of Science and Technology. Currently, I'm working as an intern frontend developer at <a href="https://newfantastic.com/">newfantastic.com</a>.
+I'm Igor, frontend developer from <b>Wroclaw, Poland</b>. I'm studying <b>Systems Engineering</b> at Wroclaw University of Science and Technology. Currently, I'm working as an frontend developer at <a href="https://newfantastic.com/">newfantastic.com</a>.
 
 ------------
 
